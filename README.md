@@ -1,1 +1,1 @@
-# 3DObjIdentifier
+# TinyML GPU Accelerato
